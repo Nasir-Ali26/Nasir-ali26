@@ -24,12 +24,7 @@ creating modern, responsive, and user-friendly websites.
 - JavaScript
 - Responsive Web Design
 - Git and GitHub
-
-## 📚 My 7-Week Web Development Roadmap
-
-| Week | Topics |
-|---|---|
-| Week 1 | HTML Fundamentals |
+- 
 # HTML Fundamentals — Complete Beginner's Guide
 
 **Author:** Nasir Ali  
@@ -995,29 +990,5 @@ This repository represents my HTML learning journey and provides a foundation fo
 **Keep learning, keep coding, and keep building.**
 
 — Nasir Ali
-| Week 2 | CSS Fundamentals |
-| Week 3 | Flexbox, Grid and Responsive Design |
-| Week 4 | JavaScript Basics |
-| Week 5 | Functions, Arrays and DOM |
-| Week 6 | Events and Form Validation |
-| Week 7 | Complete Website Project |
-
-## 🚀 My Projects
-
-- Restaurant Website
-- E-commerce Website
-- Garments Website
-- HTML Forms and Practice Projects
-
-## 🌱 My Interests
-
-Coding, ethical hacking, mountains, and nature.
-
-I believe in continuous learning and improving my skills every day.
-
-## 📫 Connect With Me
-
-- GitHub: https://github.com/Nasir-Ali26
-
 
 ⭐ Thanks for visiting my profile!
