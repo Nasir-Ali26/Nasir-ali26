@@ -127,10 +127,11 @@ Technology isn't my only interest. I also enjoy spending time in nature and cont
 
 ## 🌐 Connect With Me
 
-- **GitHub:** [My GitHub Profile](https://github.com/)
-- **Portfolio:** [Visit My Portfolio](https://nasirali276433-alt.github.io/Nasir-Baloch-portfolio/)
 
----
+
+[**Visit My LinkedIn Prof**](https://www.linkedin.com/in/nasir-baloch-0656913b2)
+
+📍 Turbat, Balochistan, Pakistan
 
 ⭐ Thanks for visiting my profile!
 
