@@ -1,26 +1,16 @@
 # Hi, I'm Nasir Ali 👋
 
-### Front-End Developer | BS IT Student | Cybersecurity Learner
+### Front-End Developer | BS Information Technology Student
 
-Welcome to my GitHub profile!
-
-I'm Nasir Ali, a BS Information Technology student at the University of Balochistan, Quetta. I enjoy building websites, exploring technology, and working on practical software projects.
-
-I'm currently improving my front-end development skills and learning Cybersecurity. I believe in learning through practice and creating technology that can make a positive difference.
-
----
+I'm Nasir Ali, a BS Information Technology student at the University of Balochistan, Quetta. I enjoy building modern, responsive, and user-friendly websites. I am continuously learning new technologies and improving my development skills through practical projects.
 
 ## 👨‍💻 About Me
 
 - 🎓 BS Information Technology Student (2024–2028)
 - 💻 Front-End Developer
-- 🔐 Currently learning Cybersecurity
-- 🚀 Working on an Autonomous Patrol Drone project
-- 🏔️ Hiking and exploring mountainous areas
-- 🌱 Interested in tree plantation and environmental protection
-- 📍 Turbat, Balochistan, Pakistan
-
----
+- 🌱 Currently learning Cybersecurity
+- 📍 From Turbat, Balochistan, Pakistan
+- 🚀 Interested in web development and practical technology projects
 
 ## 🛠️ Technical Skills
 
@@ -28,52 +18,49 @@ I'm currently improving my front-end development skills and learning Cybersecuri
 - CSS3
 - JavaScript
 - Responsive Web Design
-- Git & GitHub
-
-**Currently Learning:**
-- Cybersecurity
-- Artificial Intelligence
-- Autonomous Systems
-
----
+- Git
+- GitHub
 
 ## 🚀 My Projects
 
 ### 1. Face Recognition Based Offline Attendance Management System
 
-Developed an offline attendance management software that uses face recognition to identify students and automatically mark their attendance as Present.
+**Status:** Developed
 
-**Features:**
-- Face recognition
-- Automatic attendance marking
+An offline attendance management software that uses face recognition to identify students and automatically record their attendance without requiring an internet connection.
+
+**Key Features:**
+
+- Face recognition for student identification
+- Automatic attendance recording
 - Offline functionality
-- Student attendance records
+- Easier attendance management
 
-### 2. Autonomous Patrol Drone
+### 2. Smart Mountain Reforestation & Automatic Irrigation System
 
-<text>Project Status: In Progress</text>
+**Status:** In Progress
 
-I'm currently working on an autonomous patrol drone concept designed to support police surveillance and security monitoring.
+I am currently working on a smart irrigation project designed to support tree plantation and forest growth in the mountainous areas of Turbat, Balochistan.
 
-The planned system aims to:
+The system uses soil moisture sensors installed near trees. When the soil becomes dry, the system automatically activates the water motor and opens the valve nearest to the sensor. Water is supplied to the tree, and irrigation stops automatically when the required moisture level is reached.
 
-- Patrol predefined routes without continuous human operation.
-- Monitor designated areas.
-- Detect potentially illegal or suspicious activities.
-- Send alerts and relevant information to police headquarters.
+**Key Features:**
 
-The goal is to explore how autonomous technology and AI can support public safety.
-
----
+- Soil moisture monitoring
+- Automatic water motor control
+- Sensor-based valve operation
+- Automatic irrigation shutdown
+- Water conservation
+- Supporting tree survival and reforestation
 
 ## 🎓 Education
 
-**Bachelor of Science in Information Technology (BS IT)**
-
-University of Balochistan, Quetta  
+**BS Information Technology**
+University of Balochistan, Quetta
 Session: 2024–2028
 
 ### Semester 1
+
 - Programming Fundamentals
 - Application of Information & Communication Technologies
 - Discrete Structures
@@ -81,6 +68,7 @@ Session: 2024–2028
 - Functional English
 
 ### Semester 2
+
 - Digital Logic Design
 - Data Structures
 - Object Oriented Programming
@@ -88,6 +76,7 @@ Session: 2024–2028
 - Probability & Statistics
 
 ### Semester 3
+
 - Operating Systems
 - Computer Organization and Assembly Language
 - Computer Networks
@@ -95,6 +84,7 @@ Session: 2024–2028
 - Applied Physics
 
 ### Semester 4
+
 - Expository Writing
 - Artificial Intelligence (AI)
 - Islamiat
@@ -102,32 +92,18 @@ Session: 2024–2028
 - Information Security
 - Constitution of Pakistan
 
----
-
 ## 🌿 Beyond Technology
 
-Technology isn't my only interest. I also enjoy spending time in nature and contributing to the environment.
-
-- 🏔️ **Hiking:** I love exploring the mountains and beautiful landscapes around Turbat.
-- 🌳 **Tree Plantation:** I am interested in planting trees in the mountainous areas of Turbat.
-- 🐾 **Animal Care:** I like arranging drinking water for animals, especially in areas where water is difficult to find.
-- 🌍 **Environmental Protection:** I believe small efforts can make a positive difference in nature.
-
----
+I enjoy hiking in the mountains around Turbat and exploring nature. I am also interested in planting trees, supporting forest growth, and helping provide drinking water for animals in mountainous areas.
 
 ## 🎯 My Goals
 
-- Become a skilled Front-End Developer.
-- Build practical and meaningful software.
-- Improve my Cybersecurity knowledge.
-- Develop innovative AI and autonomous technology projects.
-- Contribute to environmental protection.
-
----
+- Improve my front-end development skills.
+- Build useful and practical software projects.
+- Learn more about Cybersecurity.
+- Explore new technologies and solve real-world problems.
 
 ## 🌐 Connect With Me
-
-
 
 [**Visit My LinkedIn Prof**](https://www.linkedin.com/in/nasir-baloch-0656913b2)
 
