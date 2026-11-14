@@ -105,7 +105,7 @@ I enjoy hiking in the mountains around Turbat and exploring nature. I am also in
 
 ## 🌐 Connect With Me
 
-[**Visit My LinkedIn Prof**](https://www.linkedin.com/in/nasir-baloch-0656913b2)
+[**Visit My LinkedIn Profile](https://www.linkedin.com/in/nasir-baloch-0656913b2)
 
 📍 Turbat, Balochistan, Pakistan
 
